@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="14" selection-start="407" selection-end="407" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="476">
+            <state line="6" column="176" selection-start="296" selection-end="296" vertical-scroll-proportion="0.19391635" vertical-offset="0" max-vertical-offset="526">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="273" selection-end="273" vertical-scroll-proportion="0.27079645" vertical-offset="68" max-vertical-offset="1275">
+            <state line="13" column="33" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -458,17 +458,21 @@
       <changelist id="03adda4c-6866-4275-b643-7c4ca06aed87" name="Default" comment="" />
       <created>1398443782140</created>
       <updated>1398443782140</updated>
-      <workItem from="1398443788171" duration="1227000" />
+      <workItem from="1398443788171" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1398449436171</created>
       <updated>1398449436171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add&#10;">
+      <created>1398449871593</created>
+      <updated>1398449871593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1227000" />
+    <option name="totallyTimeSpent" value="1611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="742" extended-state="6" />
@@ -515,22 +519,23 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="407" selection-end="407" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="476">
+        <state line="13" column="33" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="273" selection-end="273" vertical-scroll-proportion="0.27079645" vertical-offset="68" max-vertical-offset="1275">
+        <state line="6" column="176" selection-start="296" selection-end="296" vertical-scroll-proportion="0.19391635" vertical-offset="0" max-vertical-offset="526">
           <folding />
         </state>
       </provider>
