@@ -6,10 +6,10 @@
         id        = "com.yabeshan.applocator"
         version   = "0.1.0">
 
-    <name>AppLocator</name>
+    <name>UIZoom</name>
 
     <description>
-        AppLocator
+        UIZoom
     </description>
 
     <!--
